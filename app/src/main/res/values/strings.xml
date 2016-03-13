@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Logins</string>
+    <string name="facebook_app_id">934764759975920</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_logout">Logout</string>
+
+</resources>
